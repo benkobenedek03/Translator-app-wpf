@@ -1,7 +1,7 @@
 # Ez az alkalmazás a felhőszolgáltatások tárgyam, féléves projekt feladata.
 Egy WPF grafikus fordító alkamazás, ami az Azure fordító, és Blob storage szolgáltatását használja.
 Működése:
-- A felhasználó kiválaszt egy .txt fájlt.
+- A felhasználó kiválaszt egy .txt fájlt, és a nyelvet amire fordítani szeretné.
 - Az alkamlazás elküldi az Azure translator API-nak.
 - A lefordított szöveget eltárolja Azure Blob storage-ban.
 
